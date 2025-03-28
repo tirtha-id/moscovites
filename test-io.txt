@@ -1,0 +1,6 @@
+Type of bugs:
+    - Functional bugs
+    - Content bugs
+    - Visual bugs
+    - Usability suggesstion
+
